@@ -1,0 +1,1190 @@
+{
+  "wheyProducts": [
+    {
+      "id": 1,
+      "name": "Nutrabay Whey Protein",
+      "price": 1999,
+      "discount": 10,
+      "category": "Whey Protein",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-NUT-1061-05-01-340x340.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Optimum Nutrition Whey",
+      "price": 2499,
+      "discount": 15,
+      "category": "Whey Protein",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-OPT-1034-01-01-340x340.jpg"
+    },
+    {
+      "id": 3,
+      "name": "MuscleBlaze Protein",
+      "price": 1799,
+      "discount": null,
+      "category": "Whey Protein",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-1052-featured_image-MuscleBlaze_Biozyme_Performance_Whey__1kg_Chocolate_Hazelnut.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dymatize ISO100 Whey",
+      "price": 2999,
+      "discount": 20,
+      "category": "Whey Protein",
+      "brand": "Dymatize",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/04/NB-DYM-1003-03-01-340x340.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nutrabay Whey Protein",
+      "price": 1999,
+      "discount": 10,
+      "category": "Whey Protein",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-NUT-1061-05-01-340x340.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Optimum Nutrition Whey",
+      "price": 2499,
+      "discount": 15,
+      "category": "Whey Protein",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-OPT-1034-01-01-340x340.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Nutrabay Whey Protein",
+      "price": 1999,
+      "discount": 10,
+      "category": "Whey Protein",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-NUT-1061-05-01-340x340.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Optimum Nutrition Whey",
+      "price": 2499,
+      "discount": 15,
+      "category": "Whey Protein",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-OPT-1034-01-01-340x340.jpg"
+    },
+    {
+      "id": 9,
+      "name": "MuscleBlaze Protein",
+      "price": 1799,
+      "discount": null,
+      "category": "Whey Protein",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-1052-featured_image-MuscleBlaze_Biozyme_Performance_Whey__1kg_Chocolate_Hazelnut.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Dymatize ISO100 Whey",
+      "price": 2999,
+      "discount": 20,
+      "category": "Whey Protein",
+      "brand": "Dymatize",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/04/NB-DYM-1003-03-01-340x340.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Nutrabay Whey Protein",
+      "price": 1999,
+      "discount": 10,
+      "category": "Whey Protein",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-NUT-1061-05-01-340x340.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Optimum Nutrition Whey",
+      "price": 2499,
+      "discount": 15,
+      "category": "Whey Protein",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-OPT-1034-01-01-340x340.jpg"
+    }
+  ],
+  "creatineProducts": [
+    {
+      "id": 1,
+      "name": "Nutrabay Pure Creatine Monohydrate Micronised",
+      "price": 729,
+      "discount": 30,
+      "category": "Creatine",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-11427-featured_image-Nutrabay_Pure_Creatine_Monohydrate_Micronised__250_gm_055_Lb_Unflavoured.png"
+    },
+    {
+      "id": 2,
+      "name": "Nutrabay CreaPeak Creatine Monohydrate",
+      "price": 699,
+      "discount": 33,
+      "category": "Creatine",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29668-featured_image-Nutrabay_CreaPeak_Creatine_Monohydrate_%7C_Powered_by_Creapure_from_AlzChem_Germany_%7C_999_Pure_Micronized_Creatine_for_Faster_Absorption__100_gm_022_Lb_Unflavoured.png"
+    },
+    {
+      "id": 3,
+      "name": "Athlab (by Nutrabay) Creapower Creatine",
+      "price": 699,
+      "discount": 46,
+      "category": "Creatine",
+      "brand": "Athlab",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/12/NB-ATH-1006-01-01-340x340.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nutrabay Gold Micronized Creatine Monohydrate",
+      "price": 399,
+      "discount": 33,
+      "category": "Creatine",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/12/NB-NUT-1073-08-01-340x340.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Optimum Nutrition (on) Micronized Creatine",
+      "price": 999,
+      "discount": 28,
+      "category": "Creatine",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2021/11/NB-OPT-1012-04-01-340x340.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Muscletech Platinum 100% Creatine",
+      "price": 899,
+      "discount": 55,
+      "category": "Creatine",
+      "brand": "Muscletech",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-MUT-1020-02-01-340x340.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Wellversed (wellcore) - Micronised Creatine",
+      "price": 599,
+      "discount": 20,
+      "category": "Creatine",
+      "brand": "Wellversed",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29589-featured_image-Wellversed_Wellcore__Micronised_Creatine_Monohydrate__Fruit_Fusion_33_Servings.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Muscleblaze Creatine Monohydrate Cre Amp",
+      "price": 499,
+      "discount": 23,
+      "category": "Creatine",
+      "brand": "Muscleblaze",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29036-featured_image-MuscleBlaze_Creatine_Monohydrate_Cre_AMP__100_gm_022_Lb_Unflavoured.jpg"
+    }
+  ],
+  "gainerProducts": [
+    {
+      "id": 1,
+      "name": "Nutrabay Gold Bulk Up Mass Gainer",
+      "price": 2699,
+      "discount": 30,
+      "category": "Mass Gainers",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-NUT-1072-02-01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nutrabay Gold Mega Mass Weight Gainer",
+      "price": 1199,
+      "discount": 27,
+      "category": "Mass Gainers",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2876-featured_image-Nutrabay_Gold_Mega_Mass_Weight_Gainer__1_Kg_22_Lb_Rich_Chocolate_Creme.png"
+    },
+    {
+      "id": 3,
+      "name": "Nutrabay Gold Mighty Mass Weight Gainer",
+      "price": 849,
+      "discount": 29,
+      "category": "Mass Gainers",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/05/NB-NUT-1065-02-01.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Labrada Muscle Mass Gainer",
+      "weight": "3 kg (6.6 lb)",
+      "flavor": "Chocolate",
+      "rating": 4.5,
+      "reviews": 216,
+      "price": 1199,
+      "original_price": 1549,
+      "discount": 22,
+      "category": "Mass Gainers",
+      "brand": "Labrada",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-5127-featured_image-Labrada_Muscle_Mass_Gainer__3_Kg_66_Lb_Chocolate.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Optimum Nutrition (on) Serious Mass",
+      "weight": "3 kg (6.6 lb)",
+      "flavor": "Chocolate",
+      "rating": 4.5,
+      "reviews": 219,
+      "price": 3229,
+      "original_price": 3799,
+      "discount": 15,
+      "category": "Mass Gainers",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-5853-featured_image-Optimum_Nutrition_ON_Serious_Mass_Weight_Gainer_Powder_Vegetarian__3_Kg_66_Lb_Chocolate.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Gnc Weight Gainer Powder",
+      "weight": "3 kg (6.6 lb)",
+      "flavor": "Double Chocolate",
+      "rating": 4.0,
+      "reviews": 78,
+      "price": 2299,
+      "original_price": 2999,
+      "discount": 23,
+      "category": "Mass Gainers",
+      "brand": "GNC",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2020/02/NB-GNC-1073-01-01.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Nutrabay Gold Bulk Up Mass Gainer",
+      "price": 2699,
+      "discount": 30,
+      "category": "Mass Gainers",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/06/NB-NUT-1072-02-01.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Nutrabay Gold Mega Mass Weight Gainer",
+      "price": 1199,
+      "discount": 27,
+      "category": "Mass Gainers",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2876-featured_image-Nutrabay_Gold_Mega_Mass_Weight_Gainer__1_Kg_22_Lb_Rich_Chocolate_Creme.png"
+    },
+    {
+      "id": 9,
+      "name": "Nutrabay Gold Mighty Mass Weight Gainer",
+      "price": 849,
+      "discount": 29,
+      "category": "Mass Gainers",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/05/NB-NUT-1065-02-01.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Labrada Muscle Mass Gainer",
+      "weight": "3 kg (6.6 lb)",
+      "flavor": "Chocolate",
+      "rating": 4.5,
+      "reviews": 216,
+      "price": 1199,
+      "original_price": 1549,
+      "discount": 22,
+      "category": "Mass Gainers",
+      "brand": "Labrada",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-5127-featured_image-Labrada_Muscle_Mass_Gainer__3_Kg_66_Lb_Chocolate.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Optimum Nutrition (on) Serious Mass",
+      "weight": "3 kg (6.6 lb)",
+      "flavor": "Chocolate",
+      "rating": 4.5,
+      "reviews": 219,
+      "price": 3229,
+      "original_price": 3799,
+      "discount": 15,
+      "category": "Mass Gainers",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-5853-featured_image-Optimum_Nutrition_ON_Serious_Mass_Weight_Gainer_Powder_Vegetarian__3_Kg_66_Lb_Chocolate.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Gnc Weight Gainer Powder",
+      "weight": "3 kg (6.6 lb)",
+      "flavor": "Double Chocolate",
+      "rating": 4.0,
+      "reviews": 78,
+      "price": 2299,
+      "original_price": 2999,
+      "discount": 23,
+      "category": "Mass Gainers",
+      "brand": "GNC",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2020/02/NB-GNC-1073-01-01.jpg"
+    }
+  ],
+  "shilajitProducts": [
+    {
+      "id": 1,
+      "name": "Himalaya Shilajit Capsules",
+      "price": 599,
+      "discount": 10,
+      "category": "Shilajit",
+      "brand": "Himalaya",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29366-featured_image-Nutrabay_Shudh_Himalayan_Shilajit/Shilajeet_Resin_from_High_Altitude_with_80_Fulvic_Acid_%7C_Heavy_Metal_Tested_%7C_Extracted_using_Water__20_gm_004_Lb.jpg"
+    },
+    {
+      "id": 2,
+      "name": "API Himalayan Shilajit 25gm",
+      "price": 799,
+      "discount": 15,
+      "category": "Shilajit",
+      "brand": "API Ayurveda",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/11/NB-KPV-1005-01-02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "API Himalayan Shilajit 40gm",
+      "price": 1099,
+      "discount": 20,
+      "category": "Shilajit",
+      "brand": "API Ayurveda",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-28017-featured_image-Kapiva_Himalayan_Shilajit_Resin__20_gm_004_Lb.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shuddha Shilajit Powder",
+      "price": 499,
+      "discount": null,
+      "category": "Shilajit",
+      "brand": "Ayurvite Wellness",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/07/NB-DRP-1022-01-01.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Himalaya Shilajit Capsules",
+      "price": 599,
+      "discount": 10,
+      "category": "Shilajit",
+      "brand": "Himalaya",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29366-featured_image-Nutrabay_Shudh_Himalayan_Shilajit/Shilajeet_Resin_from_High_Altitude_with_80_Fulvic_Acid_%7C_Heavy_Metal_Tested_%7C_Extracted_using_Water__20_gm_004_Lb.jpg"
+    },
+    {
+      "id": 6,
+      "name": "API Himalayan Shilajit 25gm",
+      "price": 799,
+      "discount": 15,
+      "category": "Shilajit",
+      "brand": "API Ayurveda",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/11/NB-KPV-1005-01-02.jpg"
+    },
+    {
+      "id": 7,
+      "name": "API Himalayan Shilajit 40gm",
+      "price": 1099,
+      "discount": 20,
+      "category": "Shilajit",
+      "brand": "API Ayurveda",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-28017-featured_image-Kapiva_Himalayan_Shilajit_Resin__20_gm_004_Lb.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Shuddha Shilajit Powder",
+      "price": 499,
+      "discount": null,
+      "category": "Shilajit",
+      "brand": "Ayurvite Wellness",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/07/NB-DRP-1022-01-01.jpg"
+    }
+  ],
+  "preworkoutProducts": [
+    {
+      "id": 1,
+      "name": "Nutrabay Gold Spark Pre-Workout",
+      "price": 1299,
+      "discount": 25,
+      "category": "Pre-Workout",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2963-featured_image-Nutrabay_Gold_Spark_PreWorkout__250_gm_055_Lb_Fruit_Punch.png"
+    },
+    {
+      "id": 2,
+      "name": "MuscleBlaze Pre-Workout Ripped",
+      "price": 1499,
+      "discount": 20,
+      "category": "Pre-Workout",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/05/NB-MBZ-1057-01-01.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Optimum Nutrition Gold Standard Pre-Workout",
+      "price": 2799,
+      "discount": 15,
+      "category": "Pre-Workout",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/07/NB-OPT-1036-01-01.jpg"
+    },
+    {
+      "id": 4,
+      "name": "C4 Original Pre-Workout",
+      "price": 2499,
+      "discount": 10,
+      "category": "Pre-Workout",
+      "brand": "Cellucor",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2019/11/NB-GAT-1018-01-01.jpg"
+    },
+    {
+      "id": 5,
+      "name": "BigMuscles Pre-Workout",
+      "price": 1699,
+      "discount": 30,
+      "category": "Pre-Workout",
+      "brand": "BigMuscles",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-28747-featured_image-Bigmuscles_Nutrition_Freak_Pre_workout___018kg_watermelon_slush.jpg"
+    },
+    {
+      "id": 6,
+      "name": "GNC Next Gen Pre-Workout",
+      "price": 2199,
+      "discount": 18,
+      "category": "Pre-Workout",
+      "brand": "GNC",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-418-featured_image-GNC_Pro_Performance_Pre_Workout__35834_gm_079_Lb_Blue_Raspberry.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Athlab Ignite Pre-Workout",
+      "price": 1399,
+      "discount": 22,
+      "category": "Pre-Workout",
+      "brand": "Athlab",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/12/NB-ATH-1002-01-01.jpg"
+    },
+    {
+      "id": 8,
+      "name": "RAW Nutrition Thavage Pre Workout Powder ",
+      "price": 2999,
+      "discount": 12,
+      "category": "Pre-Workout",
+      "brand": "RAW Nutrition",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29772-featured_image-RAW_Nutrition_Thavage_Pre_Workout_Powder__Dragon_Fruit_40_Servings.jpg"
+    }
+  ],
+  "multivitaminProducts": [
+    {
+      "id": 1,
+      "name": "Nutrabay Wellness Multivitamin for Men",
+      "price": 499,
+      "discount": 20,
+      "category": "Multivitamins",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2598-featured_image-Nutrabay_Pro_Active_Multivitamin_for_Men__60_Tabs.png"
+    },
+    {
+      "id": 2,
+      "name": "MuscleBlaze MB-Vite Multivitamin",
+      "price": 649,
+      "discount": 15,
+      "category": "Multivitamins",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-6359-featured_image-MuscleBlaze_Biozyme_5in1_Multivitamin__90_Tabs.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Optimum Nutrition Opti-Men Multivitamin",
+      "price": 1399,
+      "discount": 10,
+      "category": "Multivitamins",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29687-featured_image-Optimum_Nutrition_ON_Multivitamin_for_Men__60_Tabs.jpg"
+    },
+    {
+      "id": 4,
+      "name": "GNC Mega Men Multivitamin",
+      "price": 1799,
+      "discount": 12,
+      "category": "Multivitamins",
+      "brand": "GNC",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-5398-featured_image-GNC_Mega_Men_One_Daily_Caplets___60_caplets.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nutrabay Wellness Multivitamin for Men",
+      "price": 499,
+      "discount": 20,
+      "category": "Multivitamins",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2598-featured_image-Nutrabay_Pro_Active_Multivitamin_for_Men__60_Tabs.png"
+    },
+    {
+      "id": 6,
+      "name": "MuscleBlaze MB-Vite Multivitamin",
+      "price": 649,
+      "discount": 15,
+      "category": "Multivitamins",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-6359-featured_image-MuscleBlaze_Biozyme_5in1_Multivitamin__90_Tabs.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Optimum Nutrition Opti-Men Multivitamin",
+      "price": 1399,
+      "discount": 10,
+      "category": "Multivitamins",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29687-featured_image-Optimum_Nutrition_ON_Multivitamin_for_Men__60_Tabs.jpg"
+    },
+    {
+      "id": 8,
+      "name": "GNC Mega Men Multivitamin",
+      "price": 1799,
+      "discount": 12,
+      "category": "Multivitamins",
+      "brand": "GNC",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-5398-featured_image-GNC_Mega_Men_One_Daily_Caplets___60_caplets.jpg"
+    }
+  ],
+  "peanutButterProducts": [
+    {
+      "id": 1,
+      "name": "Nutrabay Pure Peanut Butter Crunchy",
+      "price": 299,
+      "discount": 10,
+      "category": "Peanut Butter",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/08/NB-NUT-1029-03-01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Myfitness Peanut Butter Chocolate Smooth - 2.5 Kg (5.5 Lb)",
+      "price": 399,
+      "discount": 15,
+      "category": "Peanut Butter",
+      "brand": "Myfitness",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29392-featured_image-Myfitness_Peanut_Butter_Chocolate_Smooth__25_Kg_55_Lb.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bagrry's Natural Peanut Butter",
+      "price": 349,
+      "discount": 8,
+      "category": "Peanut Butter",
+      "brand": "Bagrry's",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-1504-featured_image-RiteBite_Max_Protein_Peanut_Spread___Choco_Creamy___1kg.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MyFitness Original Peanut Butter",
+      "price": 329,
+      "discount": 5,
+      "category": "Peanut Butter",
+      "brand": "MyFitness",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-6716-featured_image-MyFitness_Chocolate_Peanut_Butter_Crispy__125_Kg_27_Lb.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nutrabay Pure Peanut Butter Crunchy",
+      "price": 299,
+      "discount": 10,
+      "category": "Peanut Butter",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/08/NB-NUT-1029-03-01.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Myfitness Peanut Butter Chocolate Smooth - 2.5 Kg (5.5 Lb)",
+      "price": 399,
+      "discount": 15,
+      "category": "Peanut Butter",
+      "brand": "Myfitness",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29392-featured_image-Myfitness_Peanut_Butter_Chocolate_Smooth__25_Kg_55_Lb.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bagrry's Natural Peanut Butter",
+      "price": 349,
+      "discount": 8,
+      "category": "Peanut Butter",
+      "brand": "Bagrry's",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-1504-featured_image-RiteBite_Max_Protein_Peanut_Spread___Choco_Creamy___1kg.jpg"
+    },
+    {
+      "id": 8,
+      "name": "MyFitness Original Peanut Butter",
+      "price": 329,
+      "discount": 5,
+      "category": "Peanut Butter",
+      "brand": "MyFitness",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-6716-featured_image-MyFitness_Chocolate_Peanut_Butter_Crispy__125_Kg_27_Lb.jpg"
+    }
+  ],
+  "fishoilProducts": [
+    {
+      "id": 1,
+      "name": "Nutrabay Wellness Fish Oil Omega 3",
+      "price": 599,
+      "discount": 20,
+      "category": "Fish Oil",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-9757-featured_image-Nutrabay_Pro_Fish_Oil_Omega_3_Triple_Strength__1000mg__60_Caps.png"
+    },
+    {
+      "id": 2,
+      "name": "MuscleBlaze Omega 3 Fish Oil 1000 mg",
+      "price": 699,
+      "discount": 15,
+      "category": "Fish Oil",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-4329-featured_image-MuscleBlaze_Omega_3_Fish_Oil_Gold_1250mg__Triple_Strength_Formula_560mg_EPA__400mg_DHA__60_Caps.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tata 1mg Triple Strength Omega 3 - 60 Caps",
+      "price": 999,
+      "discount": 10,
+      "category": "Fish Oil",
+      "brand": "Tata 1mg ",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-30004-featured_image-Tata_1mg_Triple_Strength_Omega_3__60_Caps.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MuscleTech Platinum 100% Fish Oil - 100 Softgels",
+      "price": 1299,
+      "discount": 12,
+      "category": "Fish Oil",
+      "brand": "MuscleTech",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-MUT-1021-PA-01.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nordic Naturals Ultimate Omega",
+      "price": 1999,
+      "discount": 8,
+      "category": "Fish Oil",
+      "brand": "Nordic Naturals",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29448-featured_image-Naturaltein_Ultimate_Omega_3__60_Caps.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Carbamide Forte Omega 3 Fish Oil",
+      "price": 799,
+      "discount": 18,
+      "category": "Fish Oil",
+      "brand": "Carbamide Forte",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2021/05/NB-SLA-1000-01-01.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Swisse Ultiboost Odourless Fish Oil 1500 mg",
+      "price": 1499,
+      "discount": 10,
+      "category": "Fish Oil",
+      "brand": "Swisse",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2021/01/NB-SWI-1011-02-01.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Neuherbs Deep Sea Fish Oil 2500 mg",
+      "price": 899,
+      "discount": 15,
+      "category": "Fish Oil",
+      "brand": "Neuherbs",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29484-featured_image-Neuherbs_Deep_Sea_Cod_Liver_Oil__Lemon_100_Softgels.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Nutrabay Wellness Fish Oil Omega 3",
+      "price": 599,
+      "discount": 20,
+      "category": "Fish Oil",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-9757-featured_image-Nutrabay_Pro_Fish_Oil_Omega_3_Triple_Strength__1000mg__60_Caps.png"
+    },
+    {
+      "id": 10,
+      "name": "MuscleBlaze Omega 3 Fish Oil 1000 mg",
+      "price": 699,
+      "discount": 15,
+      "category": "Fish Oil",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-4329-featured_image-MuscleBlaze_Omega_3_Fish_Oil_Gold_1250mg__Triple_Strength_Formula_560mg_EPA__400mg_DHA__60_Caps.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Tata 1mg Triple Strength Omega 3 - 60 Caps",
+      "price": 999,
+      "discount": 10,
+      "category": "Fish Oil",
+      "brand": "Tata 1mg ",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-30004-featured_image-Tata_1mg_Triple_Strength_Omega_3__60_Caps.jpg"
+    },
+    {
+      "id": 13,
+      "name": "MuscleTech Platinum 100% Fish Oil - 100 Softgels",
+      "price": 1299,
+      "discount": 12,
+      "category": "Fish Oil",
+      "brand": "MuscleTech",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/03/NB-MUT-1021-PA-01.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Nordic Naturals Ultimate Omega",
+      "price": 1999,
+      "discount": 8,
+      "category": "Fish Oil",
+      "brand": "Nordic Naturals",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29448-featured_image-Naturaltein_Ultimate_Omega_3__60_Caps.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Carbamide Forte Omega 3 Fish Oil",
+      "price": 799,
+      "discount": 18,
+      "category": "Fish Oil",
+      "brand": "Carbamide Forte",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2021/05/NB-SLA-1000-01-01.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Swisse Ultiboost Odourless Fish Oil 1500 mg",
+      "price": 1499,
+      "discount": 10,
+      "category": "Fish Oil",
+      "brand": "Swisse",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2021/01/NB-SWI-1011-02-01.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Neuherbs Deep Sea Fish Oil 2500 mg",
+      "price": 899,
+      "discount": 15,
+      "category": "Fish Oil",
+      "brand": "Neuherbs",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29484-featured_image-Neuherbs_Deep_Sea_Cod_Liver_Oil__Lemon_100_Softgels.jpg"
+    }
+  ],
+  "bcaaProducts": [
+    {
+      "id": 1,
+      "name": "Nutrabay Pro BCAA 2:1:1",
+      "price": 999,
+      "discount": 25,
+      "category": "BCAA",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/05/NB-NUT-1070-01-01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "MuscleBlaze BCAA Pro",
+      "price": 1199,
+      "discount": 20,
+      "category": "BCAA",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/07/NB-MBZ-1007-13-01.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Optimum Nutrition BCAA 5000 Powder",
+      "price": 1899,
+      "discount": 15,
+      "category": "BCAA",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-OPT-1010-06-01.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Xtend Bcaa (Intra Workout Catalyst) - Glacial Grape (Usa), 30 Servings",
+      "price": 2399,
+      "discount": 10,
+      "category": "BCAA",
+      "brand": "Xtend",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-8432-featured_image-Scivation_Xtend_BCAA_Intra_Workout_Catalyst__04082336184920758kg_glacial_grape_usa.jpg"
+    },
+    {
+      "id": 5,
+      "name": "MuscleBlaze BCAA Gold",
+      "price": 1299,
+      "discount": 22,
+      "category": "BCAA",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2020/08/NB-MBZ-1032-03-01.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Athlab (by Nutrabay) Anytime BCAA ",
+      "price": 1799,
+      "discount": 18,
+      "category": "BCAA",
+      "brand": "Athlab",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-28741-featured_image-Athlab_Anytime_BCAA___025kg_unflavoured.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Healthfarm BCAA",
+      "price": 1599,
+      "discount": 12,
+      "category": "BCAA",
+      "brand": "Healthfarm BCAA",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29468-featured_image-Healthfarm_Intra_BCAA_Powder__Mango_Berry_30_Servings.jpg"
+    },
+    {
+      "id": 8,
+      "name": "GNC Pro Performance BCAA",
+      "price": 1999,
+      "discount": 10,
+      "category": "BCAA",
+      "brand": "GNC",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2022/02/NB-GNC-1071-05-01.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Nutrabay Pro BCAA 2:1:1",
+      "price": 999,
+      "discount": 25,
+      "category": "BCAA",
+      "brand": "Nutrabay",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/05/NB-NUT-1070-01-01.jpg"
+    },
+    {
+      "id": 10,
+      "name": "MuscleBlaze BCAA Pro",
+      "price": 1199,
+      "discount": 20,
+      "category": "BCAA",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/07/NB-MBZ-1007-13-01.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Optimum Nutrition BCAA 5000 Powder",
+      "price": 1899,
+      "discount": 15,
+      "category": "BCAA",
+      "brand": "Optimum Nutrition",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-OPT-1010-06-01.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Xtend Bcaa (Intra Workout Catalyst) - Glacial Grape (Usa), 30 Servings",
+      "price": 2399,
+      "discount": 10,
+      "category": "BCAA",
+      "brand": "Xtend",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-8432-featured_image-Scivation_Xtend_BCAA_Intra_Workout_Catalyst__04082336184920758kg_glacial_grape_usa.jpg"
+    },
+    {
+      "id": 13,
+      "name": "MuscleBlaze BCAA Gold",
+      "price": 1299,
+      "discount": 22,
+      "category": "BCAA",
+      "brand": "MuscleBlaze",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2020/08/NB-MBZ-1032-03-01.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Athlab (by Nutrabay) Anytime BCAA ",
+      "price": 1799,
+      "discount": 18,
+      "category": "BCAA",
+      "brand": "Athlab",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-28741-featured_image-Athlab_Anytime_BCAA___025kg_unflavoured.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Healthfarm BCAA",
+      "price": 1599,
+      "discount": 12,
+      "category": "BCAA",
+      "brand": "Healthfarm BCAA",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29468-featured_image-Healthfarm_Intra_BCAA_Powder__Mango_Berry_30_Servings.jpg"
+    },
+    {
+      "id": 16,
+      "name": "GNC Pro Performance BCAA",
+      "price": 1999,
+      "discount": 10,
+      "category": "BCAA",
+      "brand": "GNC",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2022/02/NB-GNC-1071-05-01.jpg"
+    }
+  ],
+  "plantProteinProducts": [
+    {
+      "id": 1,
+      "name": "Nutrabay Pure Plant Protein",
+      "price": 1499,
+      "discount": 20,
+      "category": "Plant Protein",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-13525-featured_image-Nutrabay_Pure_100_Pea_Protein_Isolate__1_Kg_22_Lb_Unflavoured.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nutrabay Pure Plant Protein",
+      "price": 1699,
+      "discount": 15,
+      "category": "Plant Protein",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-6688-featured_image-Nutrabay_Wellness_Vegan_Plant_Protein_Powder__Superfoods__1_Kg_22_Lb_Rich_Chocolate.png"
+    },
+    {
+      "id": 3,
+      "name": "Nakpro Vegan Platinum Soy Protein Isolate",
+      "price": 2199,
+      "discount": 10,
+      "category": "Plant Protein",
+      "brand": "Nakpro",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-6524-featured_image-Nakpro_Vegan_Platinum_Soy_Protein_Isolate__1_Kg_22_Lb_Chocolate.png"
+    },
+    {
+      "id": 4,
+      "name": "GNC AMP Plant Isolate Powder",
+      "price": 2499,
+      "discount": 12,
+      "category": "Plant Protein",
+      "brand": "GNC",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-GNC-1116-01-01.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fast&Up Plant Protein Night",
+      "price": 2799,
+      "discount": 8,
+      "category": "Plant Protein",
+      "brand": "Fast&Up",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-28911-featured_image-FastUp_Plant_Protein_Night__1kg_classic_vanilla.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ghost Vegan Protein",
+      "price": 1599,
+      "discount": 18,
+      "category": "Plant Protein",
+      "brand": "Ghost",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29609-featured_image-Ghost_Vegan_Protein__Pancake_Batter_28_Servings.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Alpino Supernatural Peanut Protein",
+      "price": 1999,
+      "discount": 10,
+      "category": "Plant Protein",
+      "brand": "Alpino",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29784-featured_image-Alpino_Supernatural_Peanut_Protein__1_Kg_22_Lb_Dark_Chocolate.jpg"
+    },
+    
+    {
+      "id": 8,
+      "name": "Nutrabay Pure Plant Protein",
+      "price": 1499,
+      "discount": 20,
+      "category": "Plant Protein",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-13525-featured_image-Nutrabay_Pure_100_Pea_Protein_Isolate__1_Kg_22_Lb_Unflavoured.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Nutrabay Pure Plant Protein",
+      "price": 1699,
+      "discount": 15,
+      "category": "Plant Protein",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-6688-featured_image-Nutrabay_Wellness_Vegan_Plant_Protein_Powder__Superfoods__1_Kg_22_Lb_Rich_Chocolate.png"
+    },
+    {
+      "id": 10,
+      "name": "Nakpro Vegan Platinum Soy Protein Isolate",
+      "price": 2199,
+      "discount": 10,
+      "category": "Plant Protein",
+      "brand": "Nakpro",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-6524-featured_image-Nakpro_Vegan_Platinum_Soy_Protein_Isolate__1_Kg_22_Lb_Chocolate.png"
+    },
+    {
+      "id": 11,
+      "name": "GNC AMP Plant Isolate Powder",
+      "price": 2499,
+      "discount": 12,
+      "category": "Plant Protein",
+      "brand": "GNC",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/02/NB-GNC-1116-01-01.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Fast&Up Plant Protein Night",
+      "price": 2799,
+      "discount": 8,
+      "category": "Plant Protein",
+      "brand": "Fast&Up",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-28911-featured_image-FastUp_Plant_Protein_Night__1kg_classic_vanilla.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ghost Vegan Protein",
+      "price": 1599,
+      "discount": 18,
+      "category": "Plant Protein",
+      "brand": "Ghost",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29609-featured_image-Ghost_Vegan_Protein__Pancake_Batter_28_Servings.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Alpino Supernatural Peanut Protein",
+      "price": 1999,
+      "discount": 10,
+      "category": "Plant Protein",
+      "brand": "Alpino",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29784-featured_image-Alpino_Supernatural_Peanut_Protein__1_Kg_22_Lb_Dark_Chocolate.jpg"
+    }
+    
+  ],
+  "ayurvedaProducts": [
+    {
+      "id": 1,
+      "name": "Himalaya Ashwagandha Tablets",
+      "price": 299,
+      "discount": 10,
+      "category": "Ayurveda",
+      "brand": "Himalaya",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29366-featured_image-Nutrabay_Shudh_Himalayan_Shilajit/Shilajeet_Resin_from_High_Altitude_with_80_Fulvic_Acid_%7C_Heavy_Metal_Tested_%7C_Extracted_using_Water__20_gm_004_Lb.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nutrabay Wellness Milk Thistle Extract",
+      "price": 399,
+      "discount": 15,
+      "category": "Ayurveda",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2541-featured_image-Nutrabay_Wellness_Milk_Thistle_Extract_Silymarin_Marianum_1000mg__60_Caps.png"
+    },
+    {
+      "id": 3,
+      "name": "Nutrabay Wellness Tribulus Terrestris Extract",
+      "price": 199,
+      "discount": 5,
+      "category": "Ayurveda",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2484-featured_image-Nutrabay_Wellness_Tribulus_Terrestris_Extract_Gokshura_1000mg__60_Caps.png"
+    },
+    {
+      "id": 4,
+      "name": "Kapiva Shilajit Gold Resin",
+      "price": 349,
+      "discount": 12,
+      "category": "Ayurveda",
+      "brand": "Kapiva",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/11/NB-KPV-1005-01-02.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nutrabay Wellness Garcinia Cambogia Extract (Vrikshamla) ",
+      "price": 499,
+      "discount": 20,
+      "category": "Ayurveda",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2548-featured_image-Nutrabay_Wellness_Garcinia_Cambogia_Extract_Vrikshamla_1000mg__60_Caps.png"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Morepen Gokshura 1000mg",
+      "price": 249,
+      "discount": 8,
+      "category": "Ayurveda",
+      "brand": "Dr. Morepen",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/07/NB-DRP-1031-01-01.jpg"
+    },
+    {
+      "id": 7,
+      "name": "GNC Herbal Plus Triple Ginseng Root",
+      "price": 599,
+      "discount": 10,
+      "category": "Ayurveda",
+      "brand": "GNC",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2021/09/NB-GNC-1016-01-01x.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Swisse Ultiboost High Strength Cranberry Antioxidant Rich Supplements for Bladder & Kidney Health ",
+      "price": 299,
+      "discount": 5,
+      "category": "Ayurveda",
+      "brand": "Swisse",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2020/10/NB-SWI-1006-01-01.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Himalaya Ashwagandha Tablets",
+      "price": 299,
+      "discount": 10,
+      "category": "Ayurveda",
+      "brand": "Himalaya",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-29366-featured_image-Nutrabay_Shudh_Himalayan_Shilajit/Shilajeet_Resin_from_High_Altitude_with_80_Fulvic_Acid_%7C_Heavy_Metal_Tested_%7C_Extracted_using_Water__20_gm_004_Lb.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Nutrabay Wellness Milk Thistle Extract",
+      "price": 399,
+      "discount": 15,
+      "category": "Ayurveda",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2541-featured_image-Nutrabay_Wellness_Milk_Thistle_Extract_Silymarin_Marianum_1000mg__60_Caps.png"
+    },
+    {
+      "id": 12,
+      "name": "Nutrabay Wellness Tribulus Terrestris Extract",
+      "price": 199,
+      "discount": 5,
+      "category": "Ayurveda",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2484-featured_image-Nutrabay_Wellness_Tribulus_Terrestris_Extract_Gokshura_1000mg__60_Caps.png"
+    },
+    {
+      "id": 13,
+      "name": "Kapiva Shilajit Gold Resin",
+      "price": 349,
+      "discount": 12,
+      "category": "Ayurveda",
+      "brand": "Kapiva",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/11/NB-KPV-1005-01-02.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Nutrabay Wellness Garcinia Cambogia Extract (Vrikshamla) ",
+      "price": 499,
+      "discount": 20,
+      "category": "Ayurveda",
+      "brand": "Nutrabay",
+      "image": "https://cdn2.nutrabay.com/uploads/variant/images/variant-2548-featured_image-Nutrabay_Wellness_Garcinia_Cambogia_Extract_Vrikshamla_1000mg__60_Caps.png"
+    },
+    {
+      "id":15,
+      "name": "Dr. Morepen Gokshura 1000mg",
+      "price": 249,
+      "discount": 8,
+      "category": "Ayurveda",
+      "brand": "Dr. Morepen",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2023/07/NB-DRP-1031-01-01.jpg"
+    },
+    {
+      "id": 16,
+      "name": "GNC Herbal Plus Triple Ginseng Root",
+      "price": 599,
+      "discount": 10,
+      "category": "Ayurveda",
+      "brand": "GNC",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2021/09/NB-GNC-1016-01-01x.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Swisse Ultiboost High Strength Cranberry Antioxidant Rich Supplements for Bladder & Kidney Health ",
+      "price": 299,
+      "discount": 5,
+      "category": "Ayurveda",
+      "brand": "Swisse",
+      "image": "https://cdn.nutrabay.com/wp-content/uploads/2020/10/NB-SWI-1006-01-01.jpg"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+.supplement-slider {
+  display: flex;
+  overflow-x: auto;
+  gap: 1rem;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 1rem;
+}
+
+.supplement-card {
+  flex: 0 0 auto;
+  width: 180px;
+  border: none;
+  scroll-snap-align: start;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0,0,0,0.08);
+  border-radius: 8px;
+}
+
+.discount-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  background-color: #28a745;
+  color: white;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+  border-radius: 4px;
+}
+
+/* Remove borders from nav-tabs */
+.nav-tabs {
+  border-bottom: none;
+  gap: 1rem;
+}
+
+.nav-tabs .nav-link {
+  border: none !important;
+  background: none !important;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  color: #000;
+}
+
+/* Active tab with orange color */
+.nav-tabs .nav-link.active {
+  font-weight: bold;
+  color: #f38b58 !important;
+}
+
+.supplement-slider {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.supplement-cards-container {
+  display: flex;
+  transition: transform 0.3s ease;
+}
+
+.supplement-card {
+  margin: 0 10px;
+}
+
+.arrow-left,
+.arrow-right {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.arrow-left {
+  left: 10px;
+}
+
+.arrow-right {
+  right: 10px;
+}
+
+.supplement-slider {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.supplement-cards-container {
+  display: flex;
+  transition: transform 0.3s ease;
+}
+
+.supplement-card {
+  margin: 0 10px;
+  flex: 0 0 auto; /* Ensure each card takes up a fixed width */
+}
+
+.arrow-left,
+.arrow-right {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.arrow-left {
+  left: 10px;
+}
+
+.arrow-right {
+  right: 10px;
+}

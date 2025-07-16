@@ -1,0 +1,27 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Adjust size as needed */
+  gap: 16px; /* Space between grid items */
+  padding: 20px; /* Optional padding around the grid */
+  justify-items: center; /* Center items in each grid cell */
+}
+
+.grid-item {
+  text-align: center; /* Center text under images */
+  width: 100%; /* Ensure grid items use the full width of their cell */
+}
+
+.grid-item img {
+  max-width: 80%; /* Make the image responsive, adjust size as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+.card {
+  transition: transform 0.2s; /* Smooth scaling on hover */
+}
+
+.card:hover {
+  transform: scale(1.05); /* Scale up on hover */
+}
+
